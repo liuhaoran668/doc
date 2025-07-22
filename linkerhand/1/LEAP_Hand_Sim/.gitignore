@@ -1,8 +1,0 @@
-*.npy
-*.png
-**/__pycache__/ 
-leapsim/wandb
-leapsim.egg-info
-isaacgym/
-.vscode
-*.pyc   

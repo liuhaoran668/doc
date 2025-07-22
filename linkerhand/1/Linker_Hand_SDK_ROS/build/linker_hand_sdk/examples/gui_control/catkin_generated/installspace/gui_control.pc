@@ -1,8 +1,0 @@
-prefix=/home/ros/Linker_Hand_SDK_ROS/install
-
-Name: gui_control
-Description: Description of gui_control
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

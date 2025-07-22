@@ -1,8 +1,0 @@
-prefix=/home/ros/Linker_Hand_SDK_ROS/install
-
-Name: finger_guessing
-Description: Description of finger_guessing
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/ros/Linker_Hand_SDK_ROS/install
-
-Name: linker_hand_sdk_ros
-Description: Description of linker_hand_sdk_ros
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

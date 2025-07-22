@@ -1,8 +1,0 @@
-prefix=/home/ros/Linker_Hand_SDK_ROS/install
-
-Name: get_linker_hand_current
-Description: Description of get_linker_hand_current
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

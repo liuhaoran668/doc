@@ -1,8 +1,0 @@
-prefix=/home/ros/Linker_Hand_SDK_ROS/devel
-
-Name: linker_hand_mujoco
-Description: Description of linker_hand_mujoco
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

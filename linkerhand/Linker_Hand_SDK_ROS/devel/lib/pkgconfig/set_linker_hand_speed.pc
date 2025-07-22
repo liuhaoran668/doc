@@ -1,8 +1,0 @@
-prefix=/home/ros/Linker_Hand_SDK_ROS/devel
-
-Name: set_linker_hand_speed
-Description: Description of set_linker_hand_speed
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/ros/Linker_Hand_SDK_ROS/install
-
-Name: linker_L25_pybullet
-Description: Description of linker_L25_pybullet
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
