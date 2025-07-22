@@ -1,0 +1,8 @@
+prefix=/home/ros/Linker_Hand_SDK_ROS/install
+
+Name: graphic_display_status
+Description: Description of graphic_display_status
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

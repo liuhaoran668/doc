@@ -1,0 +1,8 @@
+prefix=/home/ros/Linker_Hand_SDK_ROS/devel
+
+Name: be_manipulated
+Description: Description of be_manipulated
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ros/Linker_Hand_SDK_ROS/devel
+
+Name: L20_get_linker_hand_state
+Description: Description of L20_get_linker_hand_state
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

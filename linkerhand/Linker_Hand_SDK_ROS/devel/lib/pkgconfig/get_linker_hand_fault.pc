@@ -1,0 +1,8 @@
+prefix=/home/ros/Linker_Hand_SDK_ROS/devel
+
+Name: get_linker_hand_fault
+Description: Description of get_linker_hand_fault
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,15 @@
+#!/home/ros/anaconda3/envs/linker/bin/python3
+# -*- coding: utf-8 -*-
+# generated from catkin/cmake/template/script.py.in
+# creates a relay to a python script source file, acting as that file.
+# The purpose is that of a symlink
+python_script = '/home/ros/Linker_Hand_SDK_ROS/src/linker_hand_sdk/examples/L20/L20_get_linker_hand_state/scripts/L20_get_linker_hand_state.py'
+with open(python_script, 'r') as fh:
+    context = {
+        '__builtins__': __builtins__,
+        '__doc__': None,
+        '__file__': python_script,
+        '__name__': __name__,
+        '__package__': None,
+    }
+    exec(compile(fh.read(), python_script, 'exec'), context)

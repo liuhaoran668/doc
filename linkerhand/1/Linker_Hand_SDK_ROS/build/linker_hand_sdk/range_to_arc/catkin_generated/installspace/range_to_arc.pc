@@ -1,0 +1,8 @@
+prefix=/home/ros/Linker_Hand_SDK_ROS/install
+
+Name: range_to_arc
+Description: Description of range_to_arc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
